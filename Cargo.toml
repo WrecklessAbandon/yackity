@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "bin/hello_world",
+    "crate/hello_world",
+
+    "examples/*",
+]
+
+[workspace.dependencies]
